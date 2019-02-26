@@ -1,1 +1,2 @@
-CREATE TABLE crowdfunder sql (id INTEGER PRIMARY KEY, name TEXT, quantity INTEGER, aisle INTEGER);
+CREATE TABLE groceries (id INTEGER PRIMARY KEY, name TEXT, quantity INTEGER, aisle INTEGER);
+INSERT INTO 
